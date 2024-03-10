@@ -1,0 +1,9 @@
+.card-wrapper{
+  width: 500px;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+.card {
+  max-width: 300px;
+}
